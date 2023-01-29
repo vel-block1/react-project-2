@@ -1,0 +1,25 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 4rem;
+  background-color: #21222a;
+}
+.iconDiv {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #61dafb;
+}
+.iconDiv > h1 {
+  font-size: 24px;
+}
+.iconDiv > img {
+  padding-right: 5px;
+}
+.icon {
+  width: 50px;
+}
+.title {
+  color: #deebf8;
+}

@@ -1,0 +1,22 @@
+.content {
+  padding-left: 4rem;
+}
+.titleMain {
+  font-size: 40px;
+}
+.list {
+  list-style: none;
+  font-size: 18;
+  display: grid;
+  align-content: center;
+}
+.list > li {
+  display: flex;
+  align-content: center;
+}
+li > img {
+  width: 8px;
+}
+li > div {
+  padding-left: 10px;
+}
